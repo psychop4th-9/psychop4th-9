@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm Krishna
+# Hi there! 👋 I'm Krishna 
+              🇮🇳 India
 
 🎓 First-Year B.Tech CSE Student
-
+ 
 🐧 Linux Mint User
 
 🐍 Python Learner
