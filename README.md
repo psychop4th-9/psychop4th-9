@@ -1,5 +1,6 @@
-# Hi there! 👋 I'm Krishna 
-              🇮🇳 India
+# Hi there!
+👋 I'm Krishna 
+🇮🇳 India
 
 🎓 First-Year B.Tech CSE Student
  
